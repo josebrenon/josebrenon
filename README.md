@@ -6,9 +6,6 @@
 - <a href="https://josebrenon.github.io/portifolio/" target="_blank">Meu portifólio</a>
 - <a href="https://josebrenon.github.io/devConverter/" target="_blank">Conversor de moedas</a>
 - <a href="https://josebrenon.github.io/verificador-idade/" target="_blank">Verificador de idade</a>
-- <a href="https://josebrenon.github.io/horadodia/" target="_blank">Hora do dia</a> 
-- <a href="https://josebrenon.github.io/projeto-android/" target="_blank">Projeto android</a>
-- <a href="https://josebrenon.github.io/clone-pinterest/" target="_blank">Clone Pinterest</a>
 - <a href="https://gj2pfh-3000.csb.app/" target="_blank">ReactKanban</a>
 <!---
 josebrenon/josebrenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
